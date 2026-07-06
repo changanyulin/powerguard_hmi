@@ -1,0 +1,9 @@
+bin/
+build/
+.sconsign.dblite
+powerguard.ini
+verification_*.png
+*.obj
+*.pdb
+*.ilk
+*.log
